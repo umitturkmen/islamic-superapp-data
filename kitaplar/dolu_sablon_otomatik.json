@@ -3541,7 +3541,7 @@
         "sure_adi_en": "The Ant",
         "sure_adi_ar": "النمل",
         "baslangic_ayeti": 89,
-        "bitis_ayeti": 94,
+        "bitis_ayeti": 93,
         "ekstra_sureler": [
             {
                 "sure_numarasi": 28,
@@ -3549,7 +3549,7 @@
                 "sure_adi_en": "The Stories",
                 "sure_adi_ar": "القصص",
                 "baslangic_ayeti": 1,
-                "bitis_ayeti": 2
+                "bitis_ayeti": 5
             }
         ]
     },
@@ -3949,7 +3949,7 @@
         "sure_adi_en": "The Clans",
         "sure_adi_ar": "الأحزاب",
         "baslangic_ayeti": 63,
-        "bitis_ayeti": 41
+        "bitis_ayeti": 73
     },
     "427.jpg": {
         "sayfa": 427,
@@ -4020,7 +4020,7 @@
                 "sure_adi_en": "The Originator",
                 "sure_adi_ar": "فاطر",
                 "baslangic_ayeti": 1,
-                "bitis_ayeti": 4
+                "bitis_ayeti": 3
             }
         ]
     },
@@ -5297,7 +5297,7 @@
         "sure_adi_en": "Divorce",
         "sure_adi_ar": "الطلاق",
         "baslangic_ayeti": 6,
-        "bitis_ayeti": 16
+        "bitis_ayeti": 12
     },
     "559.jpg": {
         "sayfa": 559,
@@ -5740,9 +5740,21 @@
                 "sure_adi_tr": "Gâşiye ",
                 "sure_adi_en": "Al-Ghashiyah",
                 "sure_adi_ar": "سُورَةُ الْغَاشِيَةِ",
-                "baslangic_ayeti": 12,
-                "bitis_ayeti": 26,
-                "ekstra_sureler": [
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 11
+                
+            }
+        ]
+    },
+    "592.jpg": {
+        "sayfa": 592,
+        "sure_numarasi": 88,
+                "sure_adi_tr": "Gâşiye ",
+                "sure_adi_en": "Al-Ghashiyah",
+                "sure_adi_ar": "سُورَةُ الْغَاشِيَةِ",
+        "baslangic_ayeti": 12,
+        "bitis_ayeti": 16,
+        "ekstra_sureler": [
             {
                 "sure_numarasi": 89,
         "sure_adi_tr": "Fecr",
@@ -5750,8 +5762,7 @@
         "sure_adi_ar": "الفجر",
                 "baslangic_ayeti": 1,
                 "bitis_ayeti": 14
-            }
-        ]
+                
             }
         ]
     },
@@ -5799,7 +5810,7 @@
         "sure_adi_tr": "Leyl",
         "sure_adi_en": "The Night",
         "sure_adi_ar": "الليل",
-        "baslangic_ayeti": 15,
+        "baslangic_ayeti": 1,
         "bitis_ayeti": 21,
         "ekstra_sureler": [
             {
