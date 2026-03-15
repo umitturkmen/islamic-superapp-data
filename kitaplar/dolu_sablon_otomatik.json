@@ -4809,7 +4809,7 @@
                 "sure_adi_en": "The Inner Apartments",
                 "sure_adi_ar": "الحجرات",
                 "baslangic_ayeti": 1,
-                "bitis_ayeti": 2
+                "bitis_ayeti": 4
             }
         ]
     },
@@ -4829,7 +4829,7 @@
         "sure_adi_en": "The Inner Apartments",
         "sure_adi_ar": "الحجرات",
         "baslangic_ayeti": 12,
-        "bitis_ayeti": ""
+        "bitis_ayeti": 18
     },
     "517.jpg": {
         "sayfa": 517,
@@ -4856,7 +4856,17 @@
         "sure_adi_en": "The letter Qaaf",
         "sure_adi_ar": "ق",
         "baslangic_ayeti": 36,
-        "bitis_ayeti": 6
+        "bitis_ayeti": 45,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 51,
+                "sure_adi_tr": "Zâriyât",
+                "sure_adi_en": "The Winnowing Winds",
+                "sure_adi_ar": "الذاريات",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 6
+            }
+        ]
     },
     "520.jpg": {
         "sayfa": 520,
@@ -4883,7 +4893,17 @@
         "sure_adi_en": "The Winnowing Winds",
         "sure_adi_ar": "الذاريات",
         "baslangic_ayeti": 52,
-        "bitis_ayeti": 14
+        "bitis_ayeti": 60,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 52,
+                "sure_adi_tr": "Tûr",
+                "sure_adi_en": "The Mount",
+                "sure_adi_ar": "الطور",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 14
+            }
+        ]
     },
     "523.jpg": {
         "sayfa": 523,
@@ -4901,7 +4921,7 @@
         "sure_adi_en": "The Mount",
         "sure_adi_ar": "الطور",
         "baslangic_ayeti": 32,
-        "bitis_ayeti": ""
+        "bitis_ayeti": 49
     },
     "525.jpg": {
         "sayfa": 525,
@@ -4928,7 +4948,17 @@
         "sure_adi_en": "The Star",
         "sure_adi_ar": "النجم",
         "baslangic_ayeti": 45,
-        "bitis_ayeti": 6
+        "bitis_ayeti": 62,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 54,
+                "sure_adi_tr": "Kamer",
+                "sure_adi_en": "The Moon",
+                "sure_adi_ar": "القمر",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 6
+            }
+        ]
     },
     "528.jpg": {
         "sayfa": 528,
@@ -4955,7 +4985,17 @@
         "sure_adi_en": "The Moon",
         "sure_adi_ar": "القمر",
         "baslangic_ayeti": 50,
-        "bitis_ayeti": 16
+        "bitis_ayeti": 55,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 55,
+                "sure_adi_tr": "Rahmân",
+                "sure_adi_en": "The Beneficent",
+                "sure_adi_ar": "الرحمن",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 16
+            }
+        ]
     },
     "531.jpg": {
         "sayfa": 531,
@@ -4982,7 +5022,17 @@
         "sure_adi_en": "The Beneficent",
         "sure_adi_ar": "الرحمن",
         "baslangic_ayeti": 68,
-        "bitis_ayeti": 16
+        "bitis_ayeti": 78,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 56,
+                "sure_adi_tr": "Vâkıa",
+                "sure_adi_en": "The Inevitable",
+                "sure_adi_ar": "الواقعة",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 16
+            }
+        ]
     },
     "534.jpg": {
         "sayfa": 534,
@@ -5009,7 +5059,17 @@
         "sure_adi_en": "The Inevitable",
         "sure_adi_ar": "الواقعة",
         "baslangic_ayeti": 77,
-        "bitis_ayeti": 3
+        "bitis_ayeti": 96,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 57,
+                "sure_adi_tr": "Hadîd",
+                "sure_adi_en": "The Iron",
+                "sure_adi_ar": "الحديد",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 3
+            }
+        ]
     },
     "537.jpg": {
         "sayfa": 537,
@@ -5045,7 +5105,7 @@
         "sure_adi_en": "The Iron",
         "sure_adi_ar": "الحديد",
         "baslangic_ayeti": 25,
-        "bitis_ayeti": ""
+        "bitis_ayeti": 29
     },
     "541.jpg": {
         "sayfa": 541,
@@ -5081,7 +5141,17 @@
         "sure_adi_en": "The Pleading Woman",
         "sure_adi_ar": "المجادلة",
         "baslangic_ayeti": 22,
-        "bitis_ayeti": 3
+        "bitis_ayeti": 22,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 59,
+                "sure_adi_tr": "Haşr",
+                "sure_adi_en": "The Exile",
+                "sure_adi_ar": "الحشر",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 3
+            }
+        ]
     },
     "545.jpg": {
         "sayfa": 545,
@@ -5108,7 +5178,7 @@
         "sure_adi_en": "The Exile",
         "sure_adi_ar": "الحشر",
         "baslangic_ayeti": 17,
-        "bitis_ayeti": ""
+        "bitis_ayeti": 24
     },
     "548.jpg": {
         "sayfa": 548,
@@ -5135,7 +5205,17 @@
         "sure_adi_en": "She that is to be examined",
         "sure_adi_ar": "الممتحنة",
         "baslangic_ayeti": 12,
-        "bitis_ayeti": 5
+        "bitis_ayeti": 13,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 61,
+                "sure_adi_tr": "Saf",
+                "sure_adi_en": "The Ranks",
+                "sure_adi_ar": "الصف",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 5
+            }
+        ]
     },
     "551.jpg": {
         "sayfa": 551,
@@ -5144,7 +5224,7 @@
         "sure_adi_en": "The Ranks",
         "sure_adi_ar": "الصف",
         "baslangic_ayeti": 6,
-        "bitis_ayeti": ""
+        "bitis_ayeti": 14
     },
     "552.jpg": {
         "sayfa": 552,
@@ -5162,7 +5242,17 @@
         "sure_adi_en": "Friday",
         "sure_adi_ar": "الجمعة",
         "baslangic_ayeti": 9,
-        "bitis_ayeti": 4
+        "bitis_ayeti": 11,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 63,
+                "sure_adi_tr": "Münâfikûn",
+                "sure_adi_en": "The Hypocrites",
+                "sure_adi_ar": "المنافقون",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 4
+            }
+        ]
     },
     "554.jpg": {
         "sayfa": 554,
@@ -5171,7 +5261,7 @@
         "sure_adi_en": "The Hypocrites",
         "sure_adi_ar": "المنافقون",
         "baslangic_ayeti": 5,
-        "bitis_ayeti": ""
+        "bitis_ayeti": 11
     },
     "555.jpg": {
         "sayfa": 555,
@@ -5189,7 +5279,7 @@
         "sure_adi_en": "Mutual Disillusion",
         "sure_adi_ar": "التغابن",
         "baslangic_ayeti": 10,
-        "bitis_ayeti": ""
+        "bitis_ayeti": 18
     },
     "557.jpg": {
         "sayfa": 557,
@@ -5207,7 +5297,7 @@
         "sure_adi_en": "Divorce",
         "sure_adi_ar": "الطلاق",
         "baslangic_ayeti": 6,
-        "bitis_ayeti": ""
+        "bitis_ayeti": 16
     },
     "559.jpg": {
         "sayfa": 559,
@@ -5225,7 +5315,7 @@
         "sure_adi_en": "The Prohibition",
         "sure_adi_ar": "التحريم",
         "baslangic_ayeti": 8,
-        "bitis_ayeti": ""
+        "bitis_ayeti": 12
     },
     "561.jpg": {
         "sayfa": 561,
@@ -5252,7 +5342,17 @@
         "sure_adi_en": "The Sovereignty",
         "sure_adi_ar": "الملك",
         "baslangic_ayeti": 27,
-        "bitis_ayeti": 15
+        "bitis_ayeti": 30,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 68,
+        "sure_adi_tr": "Kalem",
+        "sure_adi_en": "The Pen",
+        "sure_adi_ar": "القلم",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 15
+            }
+        ]
     },
     "564.jpg": {
         "sayfa": 564,
@@ -5270,7 +5370,17 @@
         "sure_adi_en": "The Pen",
         "sure_adi_ar": "القلم",
         "baslangic_ayeti": 43,
-        "bitis_ayeti": 8
+        "bitis_ayeti": 52,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 69,
+        "sure_adi_tr": "Hâkka",
+        "sure_adi_en": "The Reality",
+        "sure_adi_ar": "الحاقة",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 8
+            }
+        ]
     },
     "566.jpg": {
         "sayfa": 566,
@@ -5288,7 +5398,17 @@
         "sure_adi_en": "The Reality",
         "sure_adi_ar": "الحاقة",
         "baslangic_ayeti": 35,
-        "bitis_ayeti": 10
+        "bitis_ayeti": 52,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 70,
+        "sure_adi_tr": "Meâric",
+        "sure_adi_en": "The Ascending Stairways",
+        "sure_adi_ar": "المعارج",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 10
+            }
+        ]
     },
     "568.jpg": {
         "sayfa": 568,
@@ -5306,7 +5426,17 @@
         "sure_adi_en": "The Ascending Stairways",
         "sure_adi_ar": "المعارج",
         "baslangic_ayeti": 40,
-        "bitis_ayeti": 10
+        "bitis_ayeti": 44,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 71,
+        "sure_adi_tr": "Nûh",
+        "sure_adi_en": "Noah",
+        "sure_adi_ar": "نوح",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 10
+            }
+        ]
     },
     "570.jpg": {
         "sayfa": 570,
@@ -5315,7 +5445,7 @@
         "sure_adi_en": "Noah",
         "sure_adi_ar": "نوح",
         "baslangic_ayeti": 11,
-        "bitis_ayeti": ""
+        "bitis_ayeti": 28
     },
     "571.jpg": {
         "sayfa": 571,
@@ -5333,7 +5463,7 @@
         "sure_adi_en": "The Jinn",
         "sure_adi_ar": "الجن",
         "baslangic_ayeti": 14,
-        "bitis_ayeti": ""
+        "bitis_ayeti": 28
     },
     "573.jpg": {
         "sayfa": 573,
@@ -5351,7 +5481,17 @@
         "sure_adi_en": "The Enshrouded One",
         "sure_adi_ar": "المزمل",
         "baslangic_ayeti": 20,
-        "bitis_ayeti": 17
+        "bitis_ayeti": 20,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 74,
+        "sure_adi_tr": "Müddessir",
+        "sure_adi_en": "The Cloaked One",
+        "sure_adi_ar": "المدثر",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 17
+            }
+        ]
     },
     "575.jpg": {
         "sayfa": 575,
@@ -5369,7 +5509,17 @@
         "sure_adi_en": "The Cloaked One",
         "sure_adi_ar": "المدثر",
         "baslangic_ayeti": 48,
-        "bitis_ayeti": 19
+        "bitis_ayeti": 56,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 75,
+        "sure_adi_tr": "Kıyâmet",
+        "sure_adi_en": "The Resurrection",
+        "sure_adi_ar": "القيامة",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 19
+            }
+        ]
     },
     "577.jpg": {
         "sayfa": 577,
@@ -5378,7 +5528,17 @@
         "sure_adi_en": "The Resurrection",
         "sure_adi_ar": "القيامة",
         "baslangic_ayeti": 20,
-        "bitis_ayeti": 5
+        "bitis_ayeti": 40,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 76,
+        "sure_adi_tr": "İnsân",
+        "sure_adi_en": "Man",
+        "sure_adi_ar": "الانسان",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 5
+            }
+        ]
     },
     "578.jpg": {
         "sayfa": 578,
@@ -5396,7 +5556,17 @@
         "sure_adi_en": "Man",
         "sure_adi_ar": "الانسان",
         "baslangic_ayeti": 26,
-        "bitis_ayeti": 19
+        "bitis_ayeti": 31,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 77,
+        "sure_adi_tr": "Mürselât",
+        "sure_adi_en": "The Emissaries",
+        "sure_adi_ar": "المرسلات",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 19
+            }
+        ]
     },
     "580.jpg": {
         "sayfa": 580,
@@ -5405,7 +5575,7 @@
         "sure_adi_en": "The Emissaries",
         "sure_adi_ar": "المرسلات",
         "baslangic_ayeti": 20,
-        "bitis_ayeti": ""
+        "bitis_ayeti": 50
     },
     "581.jpg": {
         "sayfa": 581,
@@ -5423,7 +5593,17 @@
         "sure_adi_en": "The Announcement",
         "sure_adi_ar": "النبإ",
         "baslangic_ayeti": 31,
-        "bitis_ayeti": 15
+        "bitis_ayeti": 40,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 79,
+        "sure_adi_tr": "Nâziât",
+        "sure_adi_en": "Those who drag forth",
+        "sure_adi_ar": "النازعات",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 14
+            }
+        ]
     },
     "583.jpg": {
         "sayfa": 583,
@@ -5431,8 +5611,8 @@
         "sure_adi_tr": "Nâziât",
         "sure_adi_en": "Those who drag forth",
         "sure_adi_ar": "النازعات",
-        "baslangic_ayeti": 16,
-        "bitis_ayeti": ""
+        "baslangic_ayeti": 15,
+        "bitis_ayeti": 46
     },
     "584.jpg": {
         "sayfa": 584,
@@ -5441,25 +5621,45 @@
         "sure_adi_en": "He frowned",
         "sure_adi_ar": "عبس",
         "baslangic_ayeti": 1,
-        "bitis_ayeti": ""
+        "bitis_ayeti": 33
     },
     "585.jpg": {
         "sayfa": 585,
+        "sure_numarasi": 80,
+        "sure_adi_tr": "Abese",
+        "sure_adi_en": "He frowned",
+        "sure_adi_ar": "عبس",
+        "baslangic_ayeti": 34,
+        "bitis_ayeti": 42,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 81,
+        "sure_adi_tr": "Tekvîr",
+        "sure_adi_en": "The Overthrowing",
+        "sure_adi_ar": "التكوير",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 20
+            }
+        ]
+    },
+    "586.jpg": {
+        "sayfa": 586,
         "sure_numarasi": 81,
         "sure_adi_tr": "Tekvîr",
         "sure_adi_en": "The Overthrowing",
         "sure_adi_ar": "التكوير",
-        "baslangic_ayeti": 1,
-        "bitis_ayeti": ""
-    },
-    "586.jpg": {
-        "sayfa": 586,
-        "sure_numarasi": 82,
+        "baslangic_ayeti": 21,
+        "bitis_ayeti": 29,
+        "ekstra_sureler": [
+            {
+               "sure_numarasi": 82,
         "sure_adi_tr": "İnfitâr",
         "sure_adi_en": "The Cleaving",
         "sure_adi_ar": "الإنفطار",
-        "baslangic_ayeti": 1,
-        "bitis_ayeti": 6
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 19
+            }
+        ]
     },
     "587.jpg": {
         "sayfa": 587,
@@ -5467,8 +5667,8 @@
         "sure_adi_tr": "Mutaffifîn",
         "sure_adi_en": "Defrauding",
         "sure_adi_ar": "المطففين",
-        "baslangic_ayeti": 7,
-        "bitis_ayeti": 34
+        "baslangic_ayeti": 1,
+        "bitis_ayeti": 26
     },
     "588.jpg": {
         "sayfa": 588,
@@ -5476,26 +5676,55 @@
         "sure_adi_tr": "Mutaffifîn",
         "sure_adi_en": "Defrauding",
         "sure_adi_ar": "المطففين",
-        "baslangic_ayeti": 35,
-        "bitis_ayeti": ""
+        "baslangic_ayeti": 27,
+        "bitis_ayeti": 36,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 84,
+        "sure_adi_tr": "İnşikak",
+        "sure_adi_en": "Al-Inshiqaq",
+        "sure_adi_ar": "سُورَةُ الْاِنْشِقَاقِ",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 13
+            }
+        ]
     },
     "589.jpg": {
         "sayfa": 589,
-        "sure_numarasi": 85,
-        "sure_adi_tr": "Bürûc",
-        "sure_adi_en": "The Constellations",
-        "sure_adi_ar": "البروج",
-        "baslangic_ayeti": 1,
-        "bitis_ayeti": ""
+        "sure_numarasi": 84,
+        "sure_adi_tr": "İnşikak",
+        "sure_adi_en": "Al-Inshiqaq",
+        "sure_adi_ar": "سُورَةُ الْاِنْشِقَاقِ",
+        "baslangic_ayeti": 14,
+        "bitis_ayeti": 25,"ekstra_sureler": [
+            {
+                "sure_numarasi": 85,
+                "sure_adi_tr": "Bürûc",
+                "sure_adi_en": "Al-Buruj",
+                "sure_adi_ar": "سُورَةُ الْبُرُوجِ",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 11
+            }
+        ]
     },
     "590.jpg": {
         "sayfa": 590,
-        "sure_numarasi": 86,
+        "sure_numarasi": 85,
+                "sure_adi_tr": "Bürûc",
+                "sure_adi_en": "Al-Buruj",
+                "sure_adi_ar": "سُورَةُ الْبُرُوجِ",
+        "baslangic_ayeti": 12,
+        "bitis_ayeti": 22,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 86,
         "sure_adi_tr": "Târık",
         "sure_adi_en": "The Morning Star",
         "sure_adi_ar": "الطارق",
-        "baslangic_ayeti": 1,
-        "bitis_ayeti": 15
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 17
+            }
+        ]
     },
     "591.jpg": {
         "sayfa": 591,
@@ -5503,17 +5732,28 @@
         "sure_adi_tr": "A'lâ",
         "sure_adi_en": "The Most High",
         "sure_adi_ar": "الأعلى",
-        "baslangic_ayeti": 16,
-        "bitis_ayeti": ""
-    },
-    "592.jpg": {
-        "sayfa": 592,
-        "sure_numarasi": 89,
+        "baslangic_ayeti": 1,
+        "bitis_ayeti": 19,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 88,
+                "sure_adi_tr": "Gâşiye ",
+                "sure_adi_en": "Al-Ghashiyah",
+                "sure_adi_ar": "سُورَةُ الْغَاشِيَةِ",
+                "baslangic_ayeti": 12,
+                "bitis_ayeti": 26,
+                "ekstra_sureler": [
+            {
+                "sure_numarasi": 89,
         "sure_adi_tr": "Fecr",
         "sure_adi_en": "The Dawn",
         "sure_adi_ar": "الفجر",
-        "baslangic_ayeti": 1,
-        "bitis_ayeti": 23
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 14
+            }
+        ]
+            }
+        ]
     },
     "593.jpg": {
         "sayfa": 593,
@@ -5521,17 +5761,37 @@
         "sure_adi_tr": "Fecr",
         "sure_adi_en": "The Dawn",
         "sure_adi_ar": "الفجر",
-        "baslangic_ayeti": 24,
-        "bitis_ayeti": ""
+        "baslangic_ayeti": 15,
+        "bitis_ayeti": 30,"ekstra_sureler": [
+            {
+                "sure_numarasi": 90,
+                "sure_adi_tr": "Beled ",
+                "sure_adi_en": "Al-Balad",
+                "sure_adi_ar": "المائدة",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 7
+            }
+        ]
+
     },
     "594.jpg": {
         "sayfa": 594,
-        "sure_numarasi": 91,
+        "sure_numarasi": 90,
+                "sure_adi_tr": "Beled ",
+                "sure_adi_en": "Al-Balad",
+                "sure_adi_ar": "المائدة",
+        "baslangic_ayeti": 8,
+        "bitis_ayeti": 20,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 91,
         "sure_adi_tr": "Şems",
         "sure_adi_en": "The Sun",
         "sure_adi_ar": "الشمس",
-        "baslangic_ayeti": 1,
-        "bitis_ayeti": 14
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 15
+            }
+        ]
     },
     "595.jpg": {
         "sayfa": 595,
@@ -5540,87 +5800,238 @@
         "sure_adi_en": "The Night",
         "sure_adi_ar": "الليل",
         "baslangic_ayeti": 15,
-        "bitis_ayeti": ""
+        "bitis_ayeti": 21,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 93,
+                "sure_adi_tr": "Duha",
+                "sure_adi_en": "Ad-Duhaa",
+                "sure_adi_ar": "سُورَةُ الضُّحٰى",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 3
+            }
+        ]
     },
     "596.jpg": {
         "sayfa": 596,
-        "sure_numarasi": 95,
-        "sure_adi_tr": "Tîn",
-        "sure_adi_en": "The Fig",
-        "sure_adi_ar": "التين",
-        "baslangic_ayeti": 1,
-        "bitis_ayeti": ""
+        "sure_numarasi": 93,
+                "sure_adi_tr": "Duha",
+                "sure_adi_en": "Ad-Duhaa",
+                "sure_adi_ar": "سُورَةُ الضُّحٰى",
+        "baslangic_ayeti": 4,
+        "bitis_ayeti": 11,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 94,
+                "sure_adi_tr": "İnşirâh,",
+                "sure_adi_en": "Ash-Sharh",
+                "sure_adi_ar": "سُورَةُ الْاِنْشِرَاحِ",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 8,
+
+            "ekstra_sureler": [
+            {
+                "sure_numarasi": 95,
+                "sure_adi_tr": "Tin",
+                "sure_adi_en": "Tin",
+                "sure_adi_ar": "سُورَةُ التّ۪ينِ",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 5
+            }
+        ]
+            }
+        ]
     },
     "597.jpg": {
         "sayfa": 597,
-        "sure_numarasi": 97,
-        "sure_adi_tr": "Kadir",
-        "sure_adi_en": "The Power, Fate",
-        "sure_adi_ar": "القدر",
-        "baslangic_ayeti": 1,
-        "bitis_ayeti": 7
+        "sure_numarasi": 95,
+                "sure_adi_tr": "Tin",
+                "sure_adi_en": "Tin",
+                "sure_adi_ar": "سُورَةُ التّ۪ينِ",
+        "baslangic_ayeti": 6,
+        "bitis_ayeti": 8,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 96,
+                "sure_adi_tr": "Alak",
+                "sure_adi_en": "Al-'Alaq",
+                "sure_adi_ar": "سُورَةُ الْعَلَقِ",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 19
+            }
+        ]
     },
     "598.jpg": {
         "sayfa": 598,
-        "sure_numarasi": 98,
-        "sure_adi_tr": "Beyyine",
-        "sure_adi_en": "The Evidence",
-        "sure_adi_ar": "البينة",
-        "baslangic_ayeti": 8,
-        "bitis_ayeti": 9
+        "sure_numarasi": 97,
+        "sure_adi_tr": "Kadir",
+        "sure_adi_en": "Qadr",
+        "sure_adi_ar": "سُورَةُ الْقَدْرِ",
+        "baslangic_ayeti": 1,
+        "bitis_ayeti": 5,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 98,
+                "sure_adi_tr": "Al-Bayyinah",
+                "sure_adi_en": "Beyyine",
+                "sure_adi_ar": "سُورَةُ الْبَيِّنَةِ",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 8
+            }
+        ]
     },
     "599.jpg": {
         "sayfa": 599,
-        "sure_numarasi": 100,
-        "sure_adi_tr": "Âdiyât",
-        "sure_adi_en": "The Chargers",
-        "sure_adi_ar": "العاديات",
-        "baslangic_ayeti": 10,
-        "bitis_ayeti": ""
+        "sure_numarasi": 99,
+        "sure_adi_tr": "Zilzâl ",
+        "sure_adi_en": "Az-Zalzalah",
+        "sure_adi_ar": "سُورَةُ الزِّلْزَالِ",
+        "baslangic_ayeti": 1,
+        "bitis_ayeti": 8,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 100,
+                "sure_adi_tr": "Âdiyât ",
+                "sure_adi_en": "Al-'Adiyat",
+                "sure_adi_ar": "سُورَةُ الْعَادِيَاتِ",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 11
+            }
+        ]
     },
     "600.jpg": {
         "sayfa": 600,
-        "sure_numarasi": 103,
-        "sure_adi_tr": "Asr",
-        "sure_adi_en": "The Declining Day, Epoch",
-        "sure_adi_ar": "العصر",
+        "sure_numarasi": 101,
+        "sure_adi_tr": "Kâria ",
+        "sure_adi_en": "Al-Qari'ah",
+        "sure_adi_ar": "سُورَةُ الْقَارِعَةِ",
         "baslangic_ayeti": 1,
-        "bitis_ayeti": ""
+        "bitis_ayeti": 11,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 102,
+                "sure_adi_tr": "Tekâsür ",
+                "sure_adi_en": "At-Takathur",
+                "sure_adi_ar": "سُورَةُ التَّكَاثُرِ",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 8
+            }
+        ]
     },
     "601.jpg": {
         "sayfa": 601,
-        "sure_numarasi": 106,
-        "sure_adi_tr": "Kureyş",
-        "sure_adi_en": "Quraysh",
-        "sure_adi_ar": "قريش",
+        "sure_numarasi": 103,
+        "sure_adi_tr": "Asr ",
+        "sure_adi_en": "Al-'Asr",
+        "sure_adi_ar": "سُورَةُ الْعَصْرِ",
         "baslangic_ayeti": 1,
-        "bitis_ayeti": ""
+        "bitis_ayeti": 3,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 104,
+                "sure_adi_tr": "Hümeze ",
+                "sure_adi_en": "Al-Humazah",
+                "sure_adi_ar": "سُورَةُ الْهُمَزَةِ",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 9,
+                "ekstra_sureler": [
+            {
+                "sure_numarasi": 105,
+                "sure_adi_tr": "Fil",
+                "sure_adi_en": "Al-Fil",
+                "sure_adi_ar": "سُورَةُ الْف۪يلِ",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 5
+            }
+        ]
+            }
+        ]
     },
     "602.jpg": {
         "sayfa": 602,
-        "sure_numarasi": 109,
-        "sure_adi_tr": "Kâfirûn",
-        "sure_adi_en": "The Disbelievers",
-        "sure_adi_ar": "الكافرون",
+        "sure_numarasi": 106,
+        "sure_adi_tr": "Kureyş  ",
+        "sure_adi_en": "Quraysh",
+        "sure_adi_ar": "سُورَةُ قُرَيْشٍ",
         "baslangic_ayeti": 1,
-        "bitis_ayeti": ""
+        "bitis_ayeti": 4,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 107,
+                "sure_adi_tr": "Mâûn  ",
+                "sure_adi_en": "Al-Ma'un",
+                "sure_adi_ar": "سُورَةُ الْمَاعُونِ",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 7,
+                "ekstra_sureler": [
+            {
+                "sure_numarasi": 108,
+                "sure_adi_tr": "Kevser",
+                "sure_adi_en": "Al-Kawthar",
+                "sure_adi_ar": "سُورَةُ الْكَوْثَرِ",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 3
+            }
+        ]
+            }
+        ]
     },
     "603.jpg": {
         "sayfa": 603,
-        "sure_numarasi": 112,
-        "sure_adi_tr": "İhlâs",
-        "sure_adi_en": "Sincerity",
-        "sure_adi_ar": "الإخلاص",
+        "sure_numarasi": 109,
+        "sure_adi_tr": "Kâfirûn ",
+        "sure_adi_en": "Al-Kafirun  ",
+        "sure_adi_ar": "سُورَةُ الْكَافِرُونَ",
         "baslangic_ayeti": 1,
-        "bitis_ayeti": ""
+        "bitis_ayeti": 6,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 110,
+                "sure_adi_tr": "Nasr   ",
+                "sure_adi_en": "An-Nasr",
+                "sure_adi_ar": "سُورَةُ النَّصْرِ",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 3,
+                "ekstra_sureler": [
+            {
+                "sure_numarasi": 111,
+                "sure_adi_tr": "Tebbet",
+                "sure_adi_en": "Al-Masad",
+                "sure_adi_ar": "سُورَةُ الْمَسَدِ",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 5
+            }
+        ]
+            }
+        ]
     },
     "604.jpg": {
         "sayfa": 604,
-        "sure_numarasi": 114,
-        "sure_adi_tr": "Nâs",
-        "sure_adi_en": "Mankind",
-        "sure_adi_ar": "الناس",
+        "sure_numarasi": 112,
+        "sure_adi_tr": "İhlas",
+        "sure_adi_en": "Al-Ikhlas  ",
+        "sure_adi_ar": "سُورَةُ الْاِخْلَاصِ",
         "baslangic_ayeti": 1,
-        "bitis_ayeti": ""
+        "bitis_ayeti": 4,
+        "ekstra_sureler": [
+            {
+                "sure_numarasi": 113,
+                "sure_adi_tr": "Felak   ",
+                "sure_adi_en": "Al-Falaq",
+                "sure_adi_ar": "سُورَةُ الْفَلَقِ",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 5,
+                "ekstra_sureler": [
+            {
+                "sure_numarasi": 114,
+                "sure_adi_tr": "Nas",
+                "sure_adi_en": "An-Nas",
+                "sure_adi_ar": "سُورَةُ النَّاسِ",
+                "baslangic_ayeti": 1,
+                "bitis_ayeti": 6
+            }
+        ]
+            }
+        ]
     }
 }
