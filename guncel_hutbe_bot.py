@@ -83,7 +83,7 @@ def guncel_hutbeyi_cek():
         yeni_dosya_adi = f"{kisa_yil}-{hafta_no:02d}-{temiz_baslik}.pdf"
         
         # JSON kontrolü
-        json_dosyasi = "hutbeler.json"
+        json_dosyasi = "Hutbeler_Arsiv/hutbeler.json"
         hutbeler_json = []
         if os.path.exists(json_dosyasi):
             with open(json_dosyasi, 'r', encoding='utf-8') as f:
