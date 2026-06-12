@@ -3,9 +3,9 @@ name: 🕌 Haftanın Hutbesi Ajanı
 on:
   schedule:
     # Türkiye saatiyle Cuma sabahı 08:00'da çalışır (UTC saatiyle 05:00)
-    # 5. gün = Cuma
     - cron: '0 5 * * 5'
   
+  # GitHub üzerinden manuel "Run workflow" butonu ile çalıştırmaya izin verir
   workflow_dispatch: 
 
 jobs:
@@ -36,9 +36,13 @@ jobs:
           git config --global user.name "Hutbe-Bot"
           git config --global user.email "bot@islam365.com"
           git add .
-          git commit -m "🤖 Otomatik Güncelleme: Yeni haftanın hutbesi arşive eklendi" || echo "Zaten güncel, değişiklik yok."
           
-          # SENIOR DOKUNUŞU: Push yapmadan önce GitHub'daki en güncel dosyaları (varsa) içeri alıyoruz (Rebase)
-          git pull --rebase origin main
-          
-          git push
+          # SENIOR DOKUNUŞU: Klasörde gerçekten yeni bir dosya var mı kontrol et
+          if git diff --staged --quiet; then
+            echo "✅ Diyanet henüz yeni hutbeyi yüklememiş veya zaten güncel. Sistem uykuya dönüyor."
+          else
+            git commit -m "🤖 Otomatik Güncelleme: Yeni haftanın hutbesi arşive eklendi"
+            git pull --rebase origin main
+            # Kopuk kafa (Detached HEAD) sorununu kökten çözen o sihirli satır:
+            git push origin HEAD:main
+          fi
