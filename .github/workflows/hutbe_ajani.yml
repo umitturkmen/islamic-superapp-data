@@ -2,22 +2,23 @@ name: 🕌 Haftanın Hutbesi Ajanı
 
 on:
   schedule:
-    # Her Perşembe UTC saatiyle 18:00'da (Türkiye saatiyle 21:00) otomatik uyanır.
-    - cron: '0 18 * * 4'
+    # Türkiye saatiyle Cuma sabahı 08:00'da çalışır (UTC saatiyle 05:00)
+    # 5. gün = Cuma
+    - cron: '0 5 * * 5'
   
-  # Bu satır, GitHub sitesinden tek tıkla "Şimdi Çalıştır" (Run workflow) butonu ekler.
   workflow_dispatch: 
 
 jobs:
   ajan_gorevi:
     runs-on: ubuntu-latest
-    # Bota, repoya dosya yükleme (push) izni veriyoruz.
     permissions:
       contents: write 
 
     steps:
       - name: 📥 Repoyu Sunucuya Çek
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Olası çakışmaları önlemek için tüm geçmişi çeker
 
       - name: 🐍 Python Motorunu Kur
         uses: actions/setup-python@v4
@@ -25,7 +26,6 @@ jobs:
           python-version: '3.10'
 
       - name: 📦 Gerekli Cephaneyi (Kütüphaneleri) Yükle
-        # Eğer kodunda BeautifulSoup falan bıraktıysan onu da buraya eklemelisin. Sadece requests yetiyorsa böyle kalsın.
         run: pip install requests
 
       - name: 🕵️‍♂️ Ajanı Serbest Bırak (Python Kodunu Çalıştır)
@@ -37,4 +37,8 @@ jobs:
           git config --global user.email "bot@islam365.com"
           git add .
           git commit -m "🤖 Otomatik Güncelleme: Yeni haftanın hutbesi arşive eklendi" || echo "Zaten güncel, değişiklik yok."
+          
+          # SENIOR DOKUNUŞU: Push yapmadan önce GitHub'daki en güncel dosyaları (varsa) içeri alıyoruz (Rebase)
+          git pull --rebase origin main
+          
           git push
