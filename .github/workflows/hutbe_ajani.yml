@@ -18,6 +18,7 @@ jobs:
       - name: 📥 Repoyu Sunucuya Çek
         uses: actions/checkout@v4
         with:
+          ref: main # SENIOR DOKUNUŞU: Kopuk kafa (detached HEAD) olmamasını sağlar, doğrudan main dalına bağlanır!
           fetch-depth: 0 # Olası çakışmaları önlemek için tüm geçmişi çeker
 
       - name: 🐍 Python Motorunu Kur
@@ -43,6 +44,5 @@ jobs:
           else
             git commit -m "🤖 Otomatik Güncelleme: Yeni haftanın hutbesi arşive eklendi"
             git pull --rebase origin main
-            # Kopuk kafa (Detached HEAD) sorununu kökten çözen o sihirli satır:
-            git push origin HEAD:main
+            git push origin main
           fi
