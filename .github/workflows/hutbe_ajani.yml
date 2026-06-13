@@ -2,9 +2,7 @@ name: 🕌 Haftanın Hutbesi Ajanı
 
 on:
   schedule:
-    # Türkiye saatiyle Cuma sabahı 08:00'da çalışır (UTC saatiyle 05:00)
     - cron: '0 5 * * 5'
-  
   workflow_dispatch: 
 
 jobs:
@@ -18,7 +16,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: main
-          # Geçmişi tam indirme garantisi
           fetch-depth: 0 
 
       - name: 🐍 Python Motorunu Kur
@@ -32,7 +29,6 @@ jobs:
       - name: 🕵️‍♂️ Ajanı Serbest Bırak (Python Kodunu Çalıştır)
         run: python guncel_hutbe_bot.py
 
-      # SENIOR DOKUNUŞU: Manuel Git Komutları Çöpe! Resmi Eklenti Devrede!
       - name: 🚀 Yeni Hutbeyi ve JSON'ı GitHub'a Gönder (Otomatik)
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
