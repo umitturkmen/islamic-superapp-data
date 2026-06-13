@@ -5,7 +5,6 @@ on:
     # Türkiye saatiyle Cuma sabahı 08:00'da çalışır (UTC saatiyle 05:00)
     - cron: '0 5 * * 5'
   
-  # GitHub üzerinden manuel "Run workflow" butonu ile çalıştırmaya izin verir
   workflow_dispatch: 
 
 jobs:
@@ -18,8 +17,9 @@ jobs:
       - name: 📥 Repoyu Sunucuya Çek
         uses: actions/checkout@v4
         with:
-          ref: main # SENIOR DOKUNUŞU: Kopuk kafa (detached HEAD) olmamasını sağlar, doğrudan main dalına bağlanır!
-          fetch-depth: 0 # Olası çakışmaları önlemek için tüm geçmişi çeker
+          ref: main
+          # Geçmişi tam indirme garantisi
+          fetch-depth: 0 
 
       - name: 🐍 Python Motorunu Kur
         uses: actions/setup-python@v4
@@ -32,17 +32,11 @@ jobs:
       - name: 🕵️‍♂️ Ajanı Serbest Bırak (Python Kodunu Çalıştır)
         run: python guncel_hutbe_bot.py
 
-      - name: 🚀 Yeni Hutbeyi ve JSON'ı GitHub'a Gönder (Push)
-        run: |
-          git config --global user.name "Hutbe-Bot"
-          git config --global user.email "bot@islam365.com"
-          git add .
-          
-          # SENIOR DOKUNUŞU: Klasörde gerçekten yeni bir dosya var mı kontrol et
-          if git diff --staged --quiet; then
-            echo "✅ Diyanet henüz yeni hutbeyi yüklememiş veya zaten güncel. Sistem uykuya dönüyor."
-          else
-            git commit -m "🤖 Otomatik Güncelleme: Yeni haftanın hutbesi arşive eklendi"
-            git pull --rebase origin main
-            git push origin main
-          fi
+      # SENIOR DOKUNUŞU: Manuel Git Komutları Çöpe! Resmi Eklenti Devrede!
+      - name: 🚀 Yeni Hutbeyi ve JSON'ı GitHub'a Gönder (Otomatik)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 Otomatik Güncelleme: Yeni haftanın hutbesi arşive eklendi"
+          branch: main
+          commit_user_name: Hutbe-Bot
+          commit_user_email: bot@islam365.com
