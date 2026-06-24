@@ -4,7 +4,7 @@ on:
   schedule:
     # SENIOR DOKUNUŞU: Cuma günleri (5. gün) Türkiye saatiyle 08:00 - 16:00 arasında HER SAAT BAŞI çalışır.
     # UTC saatiyle: 05:00 - 13:00 arası her saat başı ('0 5-13 * * 5')
-    - cron: '0 5-13 * * 5'
+    - cron: '52 5-13 * * 5'
   
   workflow_dispatch: 
 
